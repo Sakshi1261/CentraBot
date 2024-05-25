@@ -1,0 +1,8 @@
+Use Case 1 - Bot for CentraLogic Employees
+Objective is to create a BOT that will answer common questions related to employee handbook, is it holiday on xyz date, how do I request for letter from HR, How do I use HuHoka. 
+What are coding best practices for Nodejs etc
+In future we can extend this to Bike Pool, Who all are traveling to my home town this friday, what's for Lunch today
+Tech we want to use -
+Langchain/LangGraph (Python or Nodejs)
+A vector database
+Must have simple UI like streamlit but end objective is to integrate within HuHoka HR
